@@ -21,7 +21,7 @@ module.exports = {
     return [
       {
         source: '/posts/:slug',
-        destination: 'https://thesenholding.com/:slug',
+        destination: 'https://themedipia.com/:slug',
         has: [
           {
             type: 'header',
